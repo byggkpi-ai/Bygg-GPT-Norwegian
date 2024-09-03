@@ -1,0 +1,1 @@
+# Bygg-GPT-Norwegian
